@@ -23,7 +23,8 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 라이브러리
 
-- [frozenca/BTree](https://github.com/frozenca/BTree) - C++로 짠 범용, 헤더 온리, STL 형식 B-Tree 구현체입니다. 
+- [frozenca/BTree](https://github.com/frozenca/BTree) - C++로 짠 범용, 헤더 온리, STL 형식 B-Tree 구현체입니다.
+- [atcoder/ac-library](https://github.com/atcoder/ac-library) - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
 
 ## 브라우저 확장
 
