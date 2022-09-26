@@ -10,6 +10,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [목차](#목차)
 - [강의](#강의)
 - [라이브러리](#라이브러리)
+- [문제 출제](#문제-출제)
 - [브라우저 확장](#브라우저-확장)
 - [서비스](#서비스)
 - [에디토리얼](#에디토리얼)
@@ -25,6 +26,13 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 - [frozenca/BTree](https://github.com/frozenca/BTree) - C++로 짠 범용, 헤더 온리, STL과 닮은 B-Tree 구현체입니다.
 - [atcoder/ac-library](https://github.com/atcoder/ac-library) - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
+
+## 문제 출제
+
+- [UCPC 디스크립션 작성 및 포매팅 컨벤션](https://github.com/ucpcc/problemsetting-guidelines) - UCPC 문제 출제 시 따를 디스크립션 작성 및 포매팅 규약입니다.
+- [문제 안내 - BOJ Stack](https://stack.acmicpc.net/guide/problem) - 백준에 문제를 출제할 때 지켜야 하는 문제 스타일, 문체, 기호 활용법, 제한/데이터 설정법 등을 총망라한 문서입니다.
+- [ucpcc/ucpc2020-description-layout](https://github.com/ucpcc/ucpc2020-description-layout) -  [olymp.sty](https://github.com/GassaFM/olymp.sty), [SPC 2019](https://acm.sogang.ac.kr/spc/) 문제지 레이아웃 기반 문제 본문 템플릿입니다.
+- [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
 
 ## 브라우저 확장
 
@@ -43,6 +51,10 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) - 예쁜 [solved.ac][] 잔디 배너를 만들어줍니다.
 
 ## 에디토리얼
+
+### 제작 관련
+
+- [ucpcc/ucpc2020-solutions-theme](https://github.com/ucpcc/ucpc2020-solutions-theme) - UCPC 2020 풀이 및 이에 사용된 beamer 테마입니다.
 
 ### 구데기컵
 
