@@ -12,6 +12,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [서비스](#서비스)
 - [에디토리얼](#에디토리얼)
   - [구데기컵](#구데기컵)
+- [유틸리티](#유틸리티)
 
 ## 강의
 
@@ -36,3 +37,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [제 1회 구데기컵, 진짜 최종 구데기컵 2018](https://github.com/ghudegy/2018)
 - [EtvycAuRLZpb6hhe86x0](https://github.com/ghudegy/2021)
 - [진짜 최종 구데기컵 2 2](https://github.com/ghudegy/2022)
+
+## 유틸리티
+
+- [duqrldudgns/PS_CounterEx_Generator](https://github.com/duqrldudgns/PS_CounterEx_Generator) - 맞았습니다가 뜨는 C++ 코드와 틀렸습니다가 뜨는 C++ 코드가 주어질 때 무차별 대입 기법으로 반례를 찾아냅니다.
