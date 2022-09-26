@@ -2,6 +2,10 @@
 
 눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.
 
+## 강의
+
+- [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
+
 ## 브라우저 확장
 
 - [토탐정](https://github.com/wzrabbit/boj-totamjung) - 알고리즘 분류를 가리면서도 혹시 내가 모르는 알고리즘을 쓰는 게 아닌지 확인할 수 있습니다. ([Chrome](https://chrome.google.com/webstore/detail/%ED%86%A0%ED%83%90%EC%A0%95/hannhecbnjnnbbafffmogdlnajpcomek))
