@@ -16,6 +16,7 @@
 ## 서비스
 
 - [solved.ac](https://solved.ac) - 백준 온라인 저지 문제에 태그와 난이도를 붙이는 커뮤니티 프로젝트입니다.
+- [Telegram @solvedacbot](https://github.com/kiwiyou/solvedacbot) - Telegram 메신저에서 [solved.ac](https:/solved.ac) 문제/사용자 검색을 돕는 봇입니다.
 
 ## 에디토리얼
 
