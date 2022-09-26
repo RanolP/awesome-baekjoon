@@ -26,9 +26,10 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 서비스
 
-- [solved.ac](https://solved.ac/) - 백준 온라인 저지 문제에 태그와 난이도를 붙이는 커뮤니티 프로젝트입니다.
-- [Telegram @solvedacbot](https://github.com/kiwiyou/solvedacbot) - Telegram 메신저에서 [solved.ac](https://solved.ac) 문제/사용자 검색을 돕는 봇입니다.
-- [@solvedac/unofficial-documentation](https://github.com/solvedac/unofficial-documentation) - [solved.ac](https://solved.ac) API를 문서화하는 비공식 커뮤니티 프로젝트입니다. 
+- [solved.ac][] - 백준 온라인 저지 문제에 태그와 난이도를 붙이는 커뮤니티 프로젝트입니다.
+- [Telegram @solvedacbot](https://github.com/kiwiyou/solvedacbot) - Telegram 메신저에서 [solved.ac][] 문제/사용자 검색을 돕는 봇입니다.
+- [@solvedac/unofficial-documentation](https://github.com/solvedac/unofficial-documentation) - [solved.ac][] API를 문서화하는 비공식 커뮤니티 프로젝트입니다. 
+- [RECJOON](https://github.com/boostcampaitech3/final-project-level3-recsys-14) - 백준 온라인 저지 및 [solved.ac][] 사용자의 문제 풀이 이력을 바탕으로 맞춤 문제 및 라이벌을 추천해주는 인공지능 서비스입니다.
 
 ## 에디토리얼
 
@@ -41,3 +42,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 ## 유틸리티
 
 - [duqrldudgns/PS_CounterEx_Generator](https://github.com/duqrldudgns/PS_CounterEx_Generator) - 맞았습니다가 뜨는 C++ 코드와 틀렸습니다가 뜨는 C++ 코드가 주어질 때 무차별 대입 기법으로 반례를 찾아냅니다.
+- [zshchun/bojtools](https://github.com/zshchun/bojtools) - 백준 온라인 저지 및 [solved.ac][] 전용 CLI 도구 묶음입니다.
+
+
+[solved.ac]: https://solved.ac/
