@@ -7,21 +7,17 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 목차
 
-- [목차](#목차)
-- [강의](#강의)
-- [라이브러리](#라이브러리)
-- [문제 출제](#문제-출제)
-- [브라우저 확장](#브라우저-확장)
-- [서비스](#서비스)
-- [에디토리얼](#에디토리얼)
-  - [제작 관련](#제작-관련)
-  - [구데기컵](#구데기컵)
-- [유틸리티](#유틸리티)
-
-## 강의
-
-- [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
-- [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) - 코딩 테스트 대비용 알고리즘 문제집입니다.
+- [awesome-baekjoon](#awesome-baekjoon)
+  - [목차](#목차)
+  - [라이브러리](#라이브러리)
+  - [문제 출제](#문제-출제)
+  - [브라우저 확장](#브라우저-확장)
+  - [서비스](#서비스)
+  - [에디토리얼](#에디토리얼)
+    - [제작 관련](#제작-관련)
+    - [구데기컵](#구데기컵)
+  - [유틸리티](#유틸리티)
+  - [학습](#학습)
 
 ## 라이브러리
 
@@ -67,6 +63,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 - [duqrldudgns/PS_CounterEx_Generator](https://github.com/duqrldudgns/PS_CounterEx_Generator) - 맞았습니다가 뜨는 C++ 코드와 틀렸습니다가 뜨는 C++ 코드가 주어질 때 무차별 대입 기법으로 반례를 찾아냅니다.
 - [zshchun/bojtools](https://github.com/zshchun/bojtools) - 백준 온라인 저지 및 [solved.ac][] 전용 CLI 도구 묶음입니다.
+
+## 학습
+
+- [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
+- [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) - 코딩 테스트 대비용 알고리즘 문제집입니다.
 
 
 [solved.ac]: https://solved.ac/
