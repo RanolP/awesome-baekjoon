@@ -59,6 +59,10 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [EtvycAuRLZpb6hhe86x0](https://github.com/ghudegy/2021)
 - [진짜 최종 구데기컵 2 2](https://github.com/ghudegy/2022)
 
+### 기타
+
+- [UCPC 과거 대회 정보](https://ucpc.me/about/#%EA%B3%BC%EA%B1%B0-%EB%8C%80%ED%9A%8C-%EC%A0%95%EB%B3%B4) - UCPC 2011 풀이, UCPC 2013~2022 문제 및 풀이가 실려있습니다.
+
 ## 유틸리티
 
 - [duqrldudgns/PS_CounterEx_Generator](https://github.com/duqrldudgns/PS_CounterEx_Generator) - 맞았습니다가 뜨는 C++ 코드와 틀렸습니다가 뜨는 C++ 코드가 주어질 때 무차별 대입 기법으로 반례를 찾아냅니다.
