@@ -44,8 +44,9 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [Telegram @solvedacbot](https://github.com/kiwiyou/solvedacbot) - Telegram 메신저에서 [solved.ac][] 문제/사용자 검색을 돕는 봇입니다.
 - [@solvedac/unofficial-documentation](https://github.com/solvedac/unofficial-documentation) - [solved.ac][] API를 문서화하는 비공식 커뮤니티 프로젝트입니다. 
 - [RECJOON](https://github.com/boostcampaitech3/final-project-level3-recsys-14) - 백준 온라인 저지 및 [solved.ac][] 사용자의 문제 풀이 이력을 바탕으로 맞춤 문제 및 라이벌을 추천해주는 인공지능 서비스입니다.
-- [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) - 예쁜 [solved.ac][] 정보 기반 뱃지/배너를 만들어줍니다.
+- [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) - 레이팅, 푼 문제 수, 티어 정보, 자체 티어 아이콘 등을 담은 예쁜 [solved.ac][] 정보 기반 뱃지/배너를 만들어줍니다.
 - [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) - 예쁜 [solved.ac][] 잔디 배너를 만들어줍니다.
+- [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
 
 ## 에디토리얼
 
