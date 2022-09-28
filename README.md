@@ -31,8 +31,8 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [문제 안내 - BOJ Stack](https://stack.acmicpc.net/guide/problem) - 백준에 문제를 출제할 때 지켜야 하는 문제 스타일, 문체, 기호 활용법, 제한/데이터 설정법 등을 총망라한 문서입니다.
 - [ucpcc/ucpc2020-description-layout](https://github.com/ucpcc/ucpc2020-description-layout) -  [olymp.sty](https://github.com/GassaFM/olymp.sty), [SPC 2019](https://acm.sogang.ac.kr/spc/) 문제지 레이아웃 기반 문제 본문 템플릿입니다.
 - [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
-- [Startlink/boj-judge-samples](https://github.com/Startlink/boj-judge-samples) - BOJ Stack상에서 쓸 수 있는 문제 채점기(인터렉터, 스페셜 저지 등)의 예시를 소개한 저장소입니다.
-- [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) - 문제 출제를 할때 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
+- [Startlink/boj-judge-samples](https://github.com/Startlink/boj-judge-samples) - BOJ Stack 상에서 쓸 수 있는 문제 채점기(인터렉터, 스페셜 저지 등)의 예시를 소개한 저장소입니다.
+- [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
 
 ## 발표
 
