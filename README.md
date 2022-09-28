@@ -11,6 +11,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
   - [목차](#목차)
   - [라이브러리](#라이브러리)
   - [문제 출제](#문제-출제)
+  - [발표](#발표)
   - [브라우저 확장](#브라우저-확장)
   - [서비스](#서비스)
   - [에디토리얼](#에디토리얼)
@@ -30,6 +31,10 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [문제 안내 - BOJ Stack](https://stack.acmicpc.net/guide/problem) - 백준에 문제를 출제할 때 지켜야 하는 문제 스타일, 문체, 기호 활용법, 제한/데이터 설정법 등을 총망라한 문서입니다.
 - [ucpcc/ucpc2020-description-layout](https://github.com/ucpcc/ucpc2020-description-layout) -  [olymp.sty](https://github.com/GassaFM/olymp.sty), [SPC 2019](https://acm.sogang.ac.kr/spc/) 문제지 레이아웃 기반 문제 본문 템플릿입니다.
 - [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
+
+## 발표
+
+- [코딩 테스트 및 알고리즘 문제해결 공부 방법 (고려대학교 KUCC, 2022년 4월) - Suhyun Park](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
 
 ## 브라우저 확장
 
