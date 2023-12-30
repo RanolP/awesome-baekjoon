@@ -38,6 +38,10 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [실수의 실수: 스페셜 저지만 붙인다고 끝나는 것이 아니다](https://blog.shift.moe/2022/10/31/on-floating-point-errors/) - 실수 연산에서 일어나는 절대 오차와 상대 오차가 어떻게 전파되는지 자세히 설명하는 글로, 실수를 활용하는 문제를 출제할 때 큰 도움이 되는 글입니다.
 - [알고리즘 문제해결의 관점에서 프로그래밍 언어라는 것은](https://blog.shift.moe/2022/07/18/on-programming-languages-in-competitive-programming/) - 알고리즘 문제 해결에서 C++, Python, Java 등의 언어를 특정 사용례를 바탕으로 표준 라이브러리가 제공하는 기능의 차이와 이에 따른 문제 출제/해결 시 일어나는 일을 적어둔 글입니다.
 
+## 문제 풀이 도움
+
+- [PENEKhun/Baekjoon-java-starter](https://github.com/PENEKhun/Baekjoon-java-starter) - IntelliJ 기반 Java 사용자를 위한 템플릿 및 테스팅 서포트 도구
+
 ## 발표
 
 - [코딩 테스트 및 알고리즘 문제해결 공부 방법 (고려대학교 KUCC, 2022년 4월) - Suhyun Park](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
