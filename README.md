@@ -40,7 +40,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 문제 풀이 도움
 
-- [PENEKhun/Baekjoon-java-starter](https://github.com/PENEKhun/Baekjoon-java-starter) - IntelliJ 기반 Java 사용자를 위한 템플릿 및 테스팅 서포트 도구
+- [PENEKhun/Baekjoon-java-starter](https://github.com/PENEKhun/Baekjoon-java-starter) - IntelliJ 기반 Java 사용자를 위한 템플릿 생성 및 테스팅 서포트 도구
 
 ## 발표
 
