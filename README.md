@@ -64,6 +64,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) - 예쁜 [solved.ac][] 잔디 배너를 만들어줍니다.
 - [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
 - [Algorithm Visualizer](https://algorithm-visualizer.org/) - 알고리즘을 시각화해 배우기 쉽게 하고, 나아가 시각화 자료를 만들어낼 수도 있는 인터랙티브 플랫폼입니다.
+- [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
 
 ## 에디토리얼
 
