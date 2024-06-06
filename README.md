@@ -52,6 +52,9 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [BOJ Extended](https://github.com/joonas-yoon/boj-extended) - 사용자 페이지, 채점 현황, 문제 타이머, 사용자 비교, 빠른 검색, 다크 모드 등 백준 온라인 저지 사용자 경험을 전반적으로 향상시키는 다양한 기능 묶음을 제공합니다. ([Chrome](https://chrome.google.com/webstore/detail/boj-%ED%94%84%EB%A1%9C%ED%95%84-%EB%AC%B8%EC%A0%9C-%EB%B3%B4%EA%B8%B0/mfcaadoifdifdnigjmfbekjbhehibfel), [Whale](https://store.whale.naver.com/detail/epdpeloboklojnaelckeihkghcgebhnp), [Firefox](https://addons.mozilla.org/ko/firefox/addon/boj-extended/))
 - [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) - 백준 온라인 저지, 프로그래머스 등에서 맞았습니다를 받을 경우 해당 소스 코드를 열람해 복사한 후 GitHub에 올려주는 브라우저 확장입니다. ([Chrome](https://chrome.google.com/webstore/detail/ccammcjdkpgjmcpijpahlehmapgmphmk))
 - [TIERIMNIDA](https://github.com/mazassumnida/tierimnida) - 백준 온라인 저지에서 사용자 페이지의 문제 번호를 티어 색상으로 칠해줍니다. ([Chrome](https://chrome.google.com/webstore/detail/tierimnida/mgdddbhbedfjdodjccjefgbdgkglokdg))
+- [배추](https://github.com/kiwiyou/baechu) - 백준 온라인 저지 대회와 관련된 배지, 배경 정보를 대회 메뉴에 표시합니다. ([Chrome](https://chromewebstore.google.com/detail/배추/obfbkgfedgjekgmofdckdldmkggbddgp), [Firefox](https://addons.mozilla.org/firefox/addon/baechu/))
+- [토마토 예측기](https://github.com/kiwiyou/tomato-predictor) - solved.ac 아레나 레이팅 변화를 예측합니다. ([Chrome](https://chromewebstore.google.com/detail/토마토-예측기/flknggeljmkhfhehgflcagoffnpnjcgf), [Firefox](https://addons.mozilla.org/firefox/addon/tomato-predictor/))
+- [o-ey (오이)](https://github.com/kiwiyou/o-ey) - 백준 온라인 저지 사용자 번역 서비스입니다. 병합 요청은 [kiwiyou/boj-user-translation](https://github.com/kiwiyou/boj-user-translation)에 받습니다. ([Chrome](https://chromewebstore.google.com/detail/o-ey/nhhlodckfmkepfalihpjdcbjecpjhfdf), [Firefox](https://addons.mozilla.org/firefox/addon/o-ey/))
 
 ## 서비스
 
@@ -65,6 +68,8 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
 - [Algorithm Visualizer](https://algorithm-visualizer.org/) - 알고리즘을 시각화해 배우기 쉽게 하고, 나아가 시각화 자료를 만들어낼 수도 있는 인터랙티브 플랫폼입니다.
 - [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
+- [boj.ma](httpsL//boj.ma) - 백준 온라인 저지 단축 URL 서비스로, 문제 제목 프리뷰를 OpenGraph로 제공합니다. `https://boj.ma/{{문제 번호}}`로 사용합니다. (예: `https://boj.ma/1000`) ([GitHub kiwiyou/boj-preview](https://github.com/kiwiyou/boj-preview))
+- [exact.tagged.ac](https://exact.tagged.ac/) - 일러스타 페스 "표준 라이브러리" 부스에서 사용한 solved.ac 태그 맞추기 게임입니다. ([GitHub kiwiyou/tagged-exact)]([https://github.com/kiwiyou/boj-preview](https://github.com/kiwiyou/tagged-exact)))
 
 ## 에디토리얼
 
@@ -82,13 +87,14 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 - [UCPC 과거 대회 정보](https://ucpc.me/about/#%EA%B3%BC%EA%B1%B0-%EB%8C%80%ED%9A%8C-%EC%A0%95%EB%B3%B4) - UCPC 2011 풀이, UCPC 2013~2022 문제 및 풀이가 실려있습니다.
 - [제1회 초콜릿컵 에디토리얼](https://blog.bubbler.space/posts/chocolate1/editorial/)
+- [숭실대학교 프로그래밍대회 (2023 SCON)](https://github.com/ssu-sccc/2023scon) - 숭실대학교 프로그래밍 대회, 백준이 낯선 사용자를 위한 매뉴얼이나 운영 시 현장 스태프 가이드라인 및 시간표 등이 함께 아카이브되어 있습니다.
 
 ## 유틸리티
 
 - [duqrldudgns/PS_CounterEx_Generator](https://github.com/duqrldudgns/PS_CounterEx_Generator) - 맞았습니다가 뜨는 C++ 코드와 틀렸습니다가 뜨는 C++ 코드가 주어질 때 무차별 대입 기법으로 반례를 찾아냅니다.
 - [zshchun/bojtools](https://github.com/zshchun/bojtools) - 백준 온라인 저지 및 [solved.ac][] 전용 CLI 도구 묶음입니다.
 - [kiwiyou/basm-rs](https://github.com/kiwiyou/basm-rs) - 정적 링크한 no-libc, no-std Rust 프로그램 바이너리를 C 프로그램으로 번역해줍니다. 미리 구현해 제공하는 라이브러리는 물론, 조건에 맞는 외부 Rust 라이브러리도 사용할 수 있으며 빠릅니다.
-- [kiwiyou/boj-user-translation](https://github.com/kiwiyou/boj-user-translation) - 백준 님께 문의하지 않고도 사용자 번역을 추가할 수 있습니다. 브라우저 확장 o-ey를 제공합니다.
+- [Bubbler-4/gaboja](https://github.com/Bubbler-4/gaboja) - 백준 문제 풀이를 편리하게 만들어주는 CLI 도구 묶음입니다.
 
 ## 학습
 
