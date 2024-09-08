@@ -58,6 +58,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [토마토 예측기](https://github.com/kiwiyou/tomato-predictor) - solved.ac 아레나 레이팅 변화를 예측합니다. ([Chrome](https://chromewebstore.google.com/detail/토마토-예측기/flknggeljmkhfhehgflcagoffnpnjcgf), [Firefox](https://addons.mozilla.org/firefox/addon/tomato-predictor/))
 - [o-ey (오이)](https://github.com/kiwiyou/o-ey) - 백준 온라인 저지 사용자 번역 서비스입니다. 병합 요청은 [kiwiyou/boj-user-translation](https://github.com/kiwiyou/boj-user-translation)에 받습니다. ([Chrome](https://chromewebstore.google.com/detail/o-ey/nhhlodckfmkepfalihpjdcbjecpjhfdf), [Firefox](https://addons.mozilla.org/firefox/addon/o-ey/))
 - [random-ac](https://github.com/Bubbler-4/random-ac) - 백준 그룹 연습에서 랜덤 디펜스를 쉽게 만들어주는 확장입니다. ([Chrome](https://chromewebstore.google.com/detail/randomac/kdodhnnpnikopmoafeahigimagjhooba), [Firefox](https://addons.mozilla.org/ko/firefox/addon/random-ac/))
+- [BaekjoonCord](https://github.com/baekjoonCord/BJCORD-extension/) - 문제를 풀면 디스코드 웹훅을 통해 메세지를 전송합니다. ([Chrome](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%EC%BD%94%EB%93%9C/ichhnkdadkmehpahpbdgcoeccfahgpdk))
 
 ## 서비스
 
