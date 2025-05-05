@@ -39,7 +39,8 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [문제 안내 - BOJ Stack](https://stack.acmicpc.net/guide/problem) - 백준에 문제를 출제할 때 지켜야 하는 문제 스타일, 문체, 기호 활용법, 제한/데이터 설정법 등을 총망라한 문서입니다.
 - [ucpcc/ucpc2020-description-layout](https://github.com/ucpcc/ucpc2020-description-layout) -  [olymp.sty](https://github.com/GassaFM/olymp.sty), [SPC 2019](https://acm.sogang.ac.kr/spc/) 문제지 레이아웃 기반 문제 본문 템플릿입니다.
 - [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
-- [UCPC 2022에서 번거로운 디스크립션 작업을 초고속으로 해결한 방법](https://blog.shift.moe/2022/08/17/boj-description-converter/) - solved-ac/boj-description-converter이 풀고자 하는 문제와 도구의 사용 방법을 설명하는 게시글입니다.
+  - [UCPC 2022에서 번거로운 디스크립션 작업을 초고속으로 해결한 방법](https://blog.shift.moe/2022/08/17/boj-description-converter/) - solved-ac/boj-description-converter이 풀고자 하는 문제와 도구의 사용 방법을 설명하는 게시글입니다.
+  - [ShapeLayer/modernized-boj-description-converter](https://github.com/ShapeLayer/modernized-boj-description-converter) - solved-ac/boj-description-converter를 포크한 개선판입니다.
 - [Startlink/boj-judge-samples](https://github.com/Startlink/boj-judge-samples) - BOJ Stack 상에서 쓸 수 있는 문제 채점기(인터렉터, 스페셜 저지 등)의 예시를 소개한 저장소입니다.
 - [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
 - [실수의 실수: 스페셜 저지만 붙인다고 끝나는 것이 아니다](https://blog.shift.moe/2022/10/31/on-floating-point-errors/) - 실수 연산에서 일어나는 절대 오차와 상대 오차가 어떻게 전파되는지 자세히 설명하는 글로, 실수를 활용하는 문제를 출제할 때 큰 도움이 되는 글입니다.
