@@ -83,6 +83,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [exact.tagged.ac](https://exact.tagged.ac/) - 일러스타 페스 "표준 라이브러리" 부스에서 사용한 solved.ac 태그 맞추기 게임입니다. ([GitHub kiwiyou/tagged-exact)](https://github.com/kiwiyou/tagged-exact))
 - [testcase.ac](https://testcase.ac/) - 백준 코드의 반례를 찾을 수 있도록 정답 코드, 제너레이터, 제출 사례를 모아두는 서비스입니다. ([Chrome 확장 프로그램](https://chromewebstore.google.com/detail/testcaseac/idemfboidcafddhdkhbniobcioacjfkm))
 - [CodeMate](https://codemate.kr/) - solved.ac 기반 문제 추천, 진도 관리, 이메일 알림으로 팀 단위 백준 스터디를 운영할 수 있는 플랫폼입니다.
+- [Blobnom](https://blobnom.xyz/) - 백준 문제를 여러 사람과 땅따먹기 형식으로 풀어볼 수 있는 대전/연습 서비스입니다.
 
 ## 에디토리얼
 
