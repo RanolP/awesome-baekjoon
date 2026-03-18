@@ -81,6 +81,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 - [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
 - [boj.ma](https://boj.ma) - 백준 온라인 저지 단축 URL 서비스로, 문제 제목 프리뷰를 OpenGraph로 제공합니다. `https://boj.ma/{{문제 번호}}`로 사용합니다. (예: `https://boj.ma/1000`) ([GitHub kiwiyou/boj-preview](https://github.com/kiwiyou/boj-preview))
 - [exact.tagged.ac](https://exact.tagged.ac/) - 일러스타 페스 "표준 라이브러리" 부스에서 사용한 solved.ac 태그 맞추기 게임입니다. ([GitHub kiwiyou/tagged-exact)](https://github.com/kiwiyou/tagged-exact))
+- [testcase.ac](https://testcase.ac/) - 백준 코드의 반례를 찾을 수 있도록 정답 코드, 제너레이터, 제출 사례를 모아두는 서비스입니다. ([Chrome 확장 프로그램](https://chromewebstore.google.com/detail/testcaseac/idemfboidcafddhdkhbniobcioacjfkm))
 
 ## 에디토리얼
 
